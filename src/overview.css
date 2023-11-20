@@ -5,10 +5,28 @@
     border-radius: 5px;
     background: white;
   }
-  
+  .react-flow{
+    border-style: groove;
+    margin: 1%;
+    
+    float: left;
+  }
   .text-updater-node label {
     display: block;
     color: #777;
     font-size: 12px;
   }
-  
+  .workflow {
+    width: 100%;
+  }
+  #flow{
+    float: left;
+  }
+
+  #attribute-panel{
+    border-style: groove;
+    height: 100%;
+    float: left;
+    text-align: center;
+    margin: 1%;
+  }
